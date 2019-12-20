@@ -1,0 +1,6 @@
+framework module SNetGifPro {
+  umbrella header "SNetGifPro.h"
+
+  export *
+  module * { export * }
+}
