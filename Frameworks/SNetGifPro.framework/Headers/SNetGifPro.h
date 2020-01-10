@@ -15,5 +15,5 @@ FOUNDATION_EXPORT double SNETGifProVersionNumber;
 FOUNDATION_EXPORT const unsigned char SNETGifProVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SNETGifPro/PublicHeader.h>
-#import <SNETGifPro/SNETGif.h>
+#import <SNetGifPro/SNetGif.h>
 
